@@ -5,7 +5,7 @@
 🛠️ Tools: Kali Linux, Nmap, Burp Suite, Metasploit, ADB, Genymotion  
 📱 Android Pentesting | 🔍 Vulnerability Analysis | ☁️ Cloud Security  
 🌐 Portfolio: [ruturaaj.github.io](https://ruturaaj.github.io/rutuj-portfolio)  
-📫 Email: your-email@example.com | LinkedIn: [Rutuj Charde](https://linkedin.com/in/rutuj-charde)
+📫 Email: your-rutuj28charde@gmail.com | LinkedIn: [Rutuj Charde](https://linkedin.com/in/rutuj-charde)
 
 ## 🚀 Projects
 
