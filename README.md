@@ -50,7 +50,7 @@ Skilled in **Kali Linux, Nmap, Burp Suite, Metasploit, ADB, Genymotion** with in
 
 Always exploring, learning, and building in the world of **Cybersecurity**.  
 Let’s connect and collaborate on exciting projects!   
-## 📫 Connect with Me  
+## Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rutuj-charde)
 
